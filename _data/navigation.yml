@@ -1,9 +1,7 @@
 main:
-  - title: "Posts"
+  - title: "Gamedev Portfolio"
+    url: /gamedev/
+  - title: "Graphics Portfolio"
+    url: /graphics/
+  - title: "Blog Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/

@@ -26,6 +26,7 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 livereload: true
+enable_copy_code_button: true
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -55,11 +56,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-watch
+  - jekyll-livereload
 
 author:
   name   : "Jordan Hill"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Game Developer ~ Graphics Enthusiast ~ Tech Artist"
+  bio    : "Game Developer ~ Graphics Programmer"
   links:
     - label: "Bluesky"
       icon: "fa-brands fa-bluesky"
@@ -88,7 +91,7 @@ defaults:
       author_profile: false
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
   # _pages
   - scope:

@@ -21,6 +21,7 @@ bluesky_username: tlo.icecavern.games
 github_username: hillj35
 minimal_mistakes_skin: neon
 search: true
+baseurl: /Portfolio
 
 # Build settings
 markdown: kramdown

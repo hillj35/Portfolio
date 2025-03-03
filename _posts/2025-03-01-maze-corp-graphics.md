@@ -1,7 +1,6 @@
 ---
 title: "Breaking Down First Day at Maze Corp's Graphics"
 date: 2025-03-01T22:15:00-08:00
-permalink: /blog/maze-corp-graphics/
 categories:
   - blog
 tags:

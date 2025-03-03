@@ -589,4 +589,4 @@ Good question! My post-processing shader runs after opaques (non-transparent) ar
 
 # Conclusion
 
-I hope this was an interesting read and that you learned something or got inspired to make your own effects. I'm really happy I got to spend so much time working on aesthetics during a game jam! If you're interested in playing the final product you can download it on [itch.io](https://icecavern-games.itch.io/first-day-at-maze-corp) or you can check out the full source code on [github](https://github.com/IceCavern-Games/BrackeysGameJam2025.1).
+I hope this was an interesting read and that you learned something or got inspired to make your own effects. I'm really glad I had the opportunity to spend so much time working on aesthetics during a game jam! If you're interested in playing the final product you can download it on [itch.io](https://icecavern-games.itch.io/first-day-at-maze-corp) or you can check out the full source code on [github](https://github.com/IceCavern-Games/BrackeysGameJam2025.1).

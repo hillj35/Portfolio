@@ -21,7 +21,7 @@ voxel:
 maze_corp:
   - title: First Day at Maze Corp
     image_path: assets/images/mazecorp/thumbnail.png
-    excerpt: "First Day at Maze Corp was made in a week for [Brackeys Game Jam 2025.1](https://itch.io/jam/brackeys-13). My goal was to make something that visually stands out from other entries using [Unity's Scriptable Render Pipeline](https://unity.com/features/srp) to build a custom post-processing effect. You can read more about all the graphics work I did on this game in my [blog post](/Portfolio/blog/maze-corp-graphics/)."
+    excerpt: "First Day at Maze Corp was made in a week for [Brackeys Game Jam 2025.1](https://itch.io/jam/brackeys-13) and ranked 59/2199 entries with 4.1/5 stars in visuals. My goal was to make something that visually stands out from other entries using [Unity's Scriptable Render Pipeline](https://unity.com/features/srp) to build a custom post-processing effect. You can read more about all the graphics work I did on this game in my [blog post](/Portfolio/blog/maze-corp-graphics/)."
     url: https://github.com/IceCavern-Games/BrackeysGameJam2025.1
     btn_label: "Source Code"
     btn_class: "btn--light-outline btn--small"
